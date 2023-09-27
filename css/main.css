@@ -57,7 +57,7 @@ body {
 
 }
 
-.price span {
+.card-price span {
 
     font-weight: 700;
 
@@ -83,8 +83,7 @@ body {
 .button:hover, button:focus {
 
     background-color: #E41919;
-    color: #fff;
-   
+      
 }
 
 .button:active {
